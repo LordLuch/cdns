@@ -11,6 +11,14 @@
           "lordluch": "Você pode ver o github secundário do LordLuch clicando [aqui]([github])!", 
           "synce": "Você pode ver o github do synce em: https://github.com/Ovatsugh"
         }
+        "help": {
+          "name": "ajuda",
+          "description": "Mostra informações sobre comandos, sobre o bot, etc...",
+          "command_name": "comandos",
+          "command_description": "Mostra os comandos de uma determinada categoria.",
+          "informations": "Os comandos informativos podem ser vistos em: albot.vercel.app",
+          "administration": "Os comandos administrativos podem ser vistos em: albot.vercel.app"
+        }
       }
     },
     "errors": {
@@ -28,6 +36,14 @@
           "lucas_christian": "You can see LordLuch's public github by clicking [here]([github])!", 
           "lordluch": "You can see LordLuch's secondary github by clicking [here]([github])!", 
           "synce": "You can see synce's github at: https://github.com/Ovatsugh"
+        },
+        "help": {
+          "name": "help",
+          "description": "Shows information about commands, about the bot, etc...",
+          "command_name": "commands",
+          "command_description": "Shows commands of a certain category.",
+          "informations": "Informational commands can be seen at: albot.vercel.app",
+          "administration": "Administrative commands can be seen at: albot.vercel.app"
         }
       }
     },
