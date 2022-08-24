@@ -1,5 +1,5 @@
 {
-  "pt_BR": {
+  "pt-BR": {
     "commands": {
       "informations": {
         "link": {
@@ -25,7 +25,7 @@
       "bot_without_perms": "O bot não tem permissões as permissões necessárias para executar este comando."
     }
   },
-  "en_US": {
+  "en-US": {
     "commands": {
       "informations": {
         "link": {
