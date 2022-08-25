@@ -27,6 +27,15 @@
         }
       }
     },
+    "events": {
+      "interactionCreate": {
+        "not_allowed_in_dm": "Esse comando não é permitido em DM!",
+        "member_without_permissions": "Você não tem as permissões necessárias para executar esse comando!",
+        "albot_without_permissions": "Eu não tenho as permissões necessárias para executar esse comando!",
+        "is_not_owner": "Esse é um comando de nível owner, e você não tem acesso!",
+        "failed_to_run": "Falha ao executar o comando!"
+      }
+    },
     "errors": {
       "bot_without_perms": "O bot não tem permissões as permissões necessárias para executar este comando."
     }
@@ -57,6 +66,15 @@
           "name": "reload",
           "description": "Reload bot commands."
         }
+      }
+    },
+    "events": {
+      "interactionCreate": {
+        "not_allowed_in_dm": "This command is not allowed in DM!",
+        "member_without_permissions": "You don't have the necessary permissions to run this command!",
+        "albot_without_permissions": "I don't have the necessary permissions to run this command!",
+        "is_not_owner": "This is an owner-level command, and you don't have access!",
+        "failed_to_run": "Failed to execute command!"
       }
     },
     "errors": {
