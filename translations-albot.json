@@ -19,6 +19,12 @@
           "informations": "Os comandos informativos podem ser vistos em: albot.vercel.app",
           "administration": "Os comandos administrativos podem ser vistos em: albot.vercel.app"
         }
+      },
+      "owner": {
+        "reload": {
+          "name": "recarregar",
+          "description": "Recarrega os comandos do bot."
+        }
       }
     },
     "errors": {
@@ -44,6 +50,12 @@
           "command_description": "Shows commands of a certain category.",
           "informations": "Informational commands can be seen at: albot.vercel.app",
           "administration": "Administrative commands can be seen at: albot.vercel.app"
+        }
+      },
+      "owner": {
+        "reload": {
+          "name": "reload",
+          "description": "Reload bot commands."
         }
       }
     },
