@@ -4,7 +4,7 @@
       "configs": {
         "terms": {  
           "name": "termos", 
-          "description": "Você pode aceitar os termos do bot e usar todos os comandos!", 
+          "description": "Você pode aceitar os termos do bot e usar todos os comandos!"
         }
       },
       "informations": {
