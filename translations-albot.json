@@ -1,6 +1,12 @@
 {
   "pt-BR": {
     "commands": {
+      "configs": {
+        "terms": {  
+          "name": "termos", 
+          "description": "Você pode aceitar os termos do bot e usar todos os comandos!", 
+        }
+      },
       "informations": {
         "link": {
           "name": "link", 
@@ -42,6 +48,12 @@
   },
   "en-US": {
     "commands": {
+      "configs": {
+        "terms": {
+          "name": "terms",
+          "description": "You can accept the terms of the bot, and use all commands!"
+        }
+      },
       "informations": {
         "link": {
           "name": "link", 
