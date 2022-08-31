@@ -40,7 +40,8 @@
         "albot_without_permissions": "Eu não tenho as permissões necessárias para executar esse comando!",
         "is_not_owner": "Esse é um comando de nível owner, e você não tem acesso!",
         "failed_to_run": "Falha ao executar o comando!",
-        "doNotAcceptedTerms": "<@[userID]> Você ainda não aceitou os termos e os comandos que utilizam database não serão executados, você pode aceitar os termos a qualquer momento com o comando /termos!"
+        "doNotAcceptedTerms": "<@[userID]> Você ainda não aceitou os termos e os comandos que utilizam database não serão executados, você pode aceitar os termos a qualquer momento com o comando /termos!",
+        "youAreBanned": "Você está banido, e não poderá mais executar comandos!"
       }
     },
     "errors": {
@@ -88,7 +89,8 @@
         "albot_without_permissions": "I don't have the necessary permissions to run this command!",
         "is_not_owner": "This is an owner-level command, and you don't have access!",
         "failed_to_run": "Failed to execute command!",
-        "doNotAcceptedTerms": "<@[userID]> You have not yet accepted the terms and commands that use database will not be executed, you can accept the terms at any time with the command /terms!"
+        "doNotAcceptedTerms": "<@[userID]> You have not yet accepted the terms and commands that use database will not be executed, you can accept the terms at any time with the command /terms!",
+        "youAreBanned": "You are banned, and will no longer be able to execute commands!"
       }
     },
     "errors": {
