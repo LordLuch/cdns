@@ -33,11 +33,13 @@
         },
         "ban-guild": {
           "name": "ban-guild",
-          "description": "Bane uma guilda de utilizar o albot."
+          "description": "Bane uma guilda de utilizar o albot.",
+          "ID_description": "Digite o id do guilda que você deseja banir."
         },
         "ban-user": {
           "name": "ban-user",
-          "description": "Bane um usuário de utilizar o albot."
+          "description": "Bane um usuário de utilizar o albot.",
+          "ID_description": "Digite o id do usuário que você deseja banir."
         }
       }
     },
@@ -90,11 +92,13 @@
         },
         "ban-guild": {
           "name": "ban-guild",
-          "description": "Ban a guild from using albot."
+          "description": "Ban a guild from using albot.",
+          "ID_description": "Enter the id of the guild you want to banish."
         },
         "ban-user": {
           "name": "ban-user",
-          "description": "Ban a user from using albot."
+          "description": "Ban a user from using albot.",
+          "ID_description": "Enter the id of the user you want to banish."
         }
       }
     },
