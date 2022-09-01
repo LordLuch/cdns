@@ -30,6 +30,14 @@
         "reload": {
           "name": "recarregar",
           "description": "Recarrega os comandos do bot."
+        },
+        "ban-guild": {
+          "name": "ban-guild",
+          "description": "Bane uma guilda de utilizar o albot."
+        },
+        "ban-user": {
+          "name": "ban-user",
+          "description": "Bane um usuário de utilizar o albot."
         }
       }
     },
@@ -79,6 +87,14 @@
         "reload": {
           "name": "reload",
           "description": "Reload bot commands."
+        },
+        "ban-guild": {
+          "name": "ban-guild",
+          "description": "Ban a guild from using albot."
+        },
+        "ban-user": {
+          "name": "ban-user",
+          "description": "Ban a user from using albot."
         }
       }
     },
