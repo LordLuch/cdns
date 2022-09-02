@@ -4,7 +4,14 @@
       "configs": {
         "terms": {  
           "name": "termos", 
-          "description": "Você pode aceitar os termos do bot e usar todos os comandos!"
+          "description": "Você pode aceitar os termos do bot e usar todos os comandos!",
+          "dontCancelTerms": "Não",
+          "cancelTerms": "Sim",
+          "refuseTerms": "Recusar",
+          "acceptTerms": "Aceitar",
+          "embedPrivacyTitle": "Termos de serviço & privacidade",
+          "embedPrivacyCancelTermsDescription": "Detectamos que você já aceitou os termos, você deseja cancelar sua prévia aceitação?\nEsta ação irá te remover dos usuários que aceitaram os termos\nde serviço e privacidade, assim sendo toda e qualquer informação salva\ndurante o tempo em que você havia aceitado os termos, será deletada permanentemente!",
+          "embedPrivacyAcceptTermsDescription": "Resumo dos termos de uso: **Você assume responsabilidade** por qualquer imagem, vídeo, áudio, mídia que tenha enviado para mim, tentar\n**abusar de bugs, usar bots, trapaças são proibídos** e você poderá perder o acesso a todas as minhas funcionalidades(e de outros\nserviços), nós iremos coletar informações como seu ID, username, avatar, servidores, mensagens, mídia e outras coisas(mas nós não\niremos distribuir tais informações para terceiros), **você não irá difamar ou prejudicar a imagem do Albot, do LordLuch, ou do Kyuno ou de\nqualquer outro serviço relacionado ao Albot e seus criadores**, caso quebre alguma das regras você poderá ser suspenso de usar o Albot\nou qualquer outro serviço de seus criadores, e você não poderá recuperar esses dados caso sejam perdidos, além de que você estará de acordo\ncom todos os outros termos não citados neste trecho, mas existentes nos termos de uso."
         }
       },
       "informations": {
@@ -63,7 +70,14 @@
       "configs": {
         "terms": {
           "name": "terms",
-          "description": "You can accept the terms of the bot, and use all commands!"
+          "description": "You can accept the terms of the bot, and use all commands!",
+          "dontCancelTerms": "No",
+          "cancelTerms": "Yes",
+          "refuseTerms": "Refuse",
+          "acceptTerms": "Accept",
+          "embedPrivacyTitle": "Terms of Service & Privacy",
+          "embedPrivacyCancelTermsDescription": "We have detected that you have already accepted the terms, do you want to\ncancel your previous acceptance? This action will remove you from the users who have accepted the terms \nof service and privacy, so any and all information saved during the \ntime you had accepted the terms will be permanently deleted!",
+          "embedPrivacyAcceptTermsDescription": "Terms of Use Summary: **You assume responsibility** for any images, video, \naudio, media you have uploaded to me, attempting to**abusing bugs, using bots, cheating is prohibited** \nand you may lose access to all my features (and other services), we \nwill collect information such as your ID, username, avatar, servers, \nmessages, media and other things (but we will not distribute such information to third \nparties), **you will not defame or damage the image of Albot, LordLuch, or \nKyuno or any other service related to Albot and its creators**, if you break any of the rules you may be suspended from using Albot \nor any other service of its creators, and you will not you will be able to \nrecover this data if it is lost, and you will agree to all other terms \nnot mentioned in this section, but existing in the terms of use."
         }
       },
       "informations": {
