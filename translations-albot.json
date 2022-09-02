@@ -45,7 +45,7 @@
             "description": "Mostra os comandos da categoria de informações.",
             "linkChoice_name": "link", 
             "helpChoice_name": "ajuda",
-            "help_command": "Ao utilizar o comando `help`, você pode ver informações sobre comandos de qualquer categoria.",
+            "help_command": "Ao utilizar o comando `ajuda`, você pode ver informações sobre comandos de qualquer categoria.",
             "link_command": "Ao utilizar o comando `link`, ele irá mostrar o link para algo relacionado ao albot como seus fundadores, o próprio site do albot, entre outros..."
           }
         }
