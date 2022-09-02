@@ -10,6 +10,7 @@
           "refuseTerms": "Recusar",
           "acceptTerms": "Aceitar",
           "embedPrivacyTitle": "Termos de serviço & privacidade",
+          "embedPrivacyUrl": "https://albot.vercel.app/pt-BR/privacy",
           "embedPrivacyCancelTermsDescription": "Detectamos que você já aceitou os termos, você deseja cancelar sua prévia aceitação?\nEsta ação irá te remover dos usuários que aceitaram os termos\nde serviço e privacidade, assim sendo toda e qualquer informação salva\ndurante o tempo em que você havia aceitado os termos, será deletada permanentemente!",
           "embedPrivacyAcceptTermsDescription": "Resumo dos termos de uso: **Você assume responsabilidade** por qualquer imagem, vídeo, áudio, mídia que tenha enviado para mim, tentar\n**abusar de bugs, usar bots, trapaças são proibídos** e você poderá perder o acesso a todas as minhas funcionalidades(e de outros\nserviços), nós iremos coletar informações como seu ID, username, avatar, servidores, mensagens, mídia e outras coisas(mas nós não\niremos distribuir tais informações para terceiros), **você não irá difamar ou prejudicar a imagem do Albot, do LordLuch, ou do Kyuno ou de\nqualquer outro serviço relacionado ao Albot e seus criadores**, caso quebre alguma das regras você poderá ser suspenso de usar o Albot\nou qualquer outro serviço de seus criadores, e você não poderá recuperar esses dados caso sejam perdidos, além de que você estará de acordo\ncom todos os outros termos não citados neste trecho, mas existentes nos termos de uso."
         }
@@ -58,7 +59,11 @@
         "is_not_owner": "Esse é um comando de nível owner, e você não tem acesso!",
         "failed_to_run": "Falha ao executar o comando!",
         "youAreBanned": "Você está banido, e não poderá mais executar comandos!",
-        "need_db": "O evento necessita do uso do banco de dados, e o usuário é visitante, para se tornar um usuário com acesso a comandos desse tipo aceite os termos de uso e privacidade do albot com o comando /termos!"
+        "need_db": "O evento necessita do uso do banco de dados, e o usuário é visitante, para se tornar um usuário com acesso a comandos desse tipo aceite os termos de uso e privacidade do albot com o comando /termos!",
+        "refuseTerms": "Uma pena que você não tenha aceitado os nossos termos, caso mude de idéia você pode aceitar os termos a qualquer momento com o comando /termos!",
+        "acceptTerms": "Você aceitou os termos e agora recebeu a permissão para utilizar comandos que necessitam do uso do banco de dados.",
+        "dontCancelTerms": "Obrigado por continuar conosco :heart:!",
+        "cancelTerms": "É uma pena que você não queira mais continuar conosco...\nVocê pode aceitar os termos novamente a qualquer momento com o comando /termos!"
       }
     },
     "errors": {
@@ -76,6 +81,7 @@
           "refuseTerms": "Refuse",
           "acceptTerms": "Accept",
           "embedPrivacyTitle": "Terms of Service & Privacy",
+          "embedPrivacyUrl": "https://albot.vercel.app/privacy",
           "embedPrivacyCancelTermsDescription": "We have detected that you have already accepted the terms, do you want to\ncancel your previous acceptance? This action will remove you from the users who have accepted the terms \nof service and privacy, so any and all information saved during the \ntime you had accepted the terms will be permanently deleted!",
           "embedPrivacyAcceptTermsDescription": "Terms of Use Summary: **You assume responsibility** for any images, video, \naudio, media you have uploaded to me, attempting to**abusing bugs, using bots, cheating is prohibited** \nand you may lose access to all my features (and other services), we \nwill collect information such as your ID, username, avatar, servers, \nmessages, media and other things (but we will not distribute such information to third \nparties), **you will not defame or damage the image of Albot, LordLuch, or \nKyuno or any other service related to Albot and its creators**, if you break any of the rules you may be suspended from using Albot \nor any other service of its creators, and you will not you will be able to \nrecover this data if it is lost, and you will agree to all other terms \nnot mentioned in this section, but existing in the terms of use."
         }
@@ -124,7 +130,11 @@
         "is_not_owner": "This is an owner-level command, and you don't have access!",
         "failed_to_run": "Failed to execute command!",
         "youAreBanned": "You are banned, and will no longer be able to execute commands!",
-        "need_db": "The event requires the use of the database, and the user is a visitor, to become a user with access to commands of this type, accept albot's terms of use and privacy with the command /terms!"
+        "need_db": "The event requires the use of the database, and the user is a visitor, to become a user with access to commands of this type, accept albot's terms of use and privacy with the command /terms!",
+        "refuseTerms": "Too bad you didn't accept our terms, if you change your mind you can accept the terms at any time with the /terms command!",
+        "acceptTerms": "You have accepted the terms and are now granted permission to use commands that require the use of the database.",
+        "dontCancelTerms": "Thanks for sticking with us :heart:!",
+        "cancelTerms": "It's a shame you don't want to continue with us anymore...\nYou can accept the terms again at any time with the /terms command!"
       }
     },
     "errors": {
