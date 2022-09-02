@@ -36,13 +36,17 @@
             "name": "configurações",
             "description": "Mostra os comandos da categoria de configurações.",
             "termsChoice_name": "termos",
-            "ephemeralChoice_name": "ephemeral"
+            "ephemeralChoice_name": "ephemeral",
+            "terms_command": "Ao utilizar o comando `termos`, você é capaz de aceitar os termos do bot ou caso tenha aceito, mas caso não concorde mais com os nossos termos, você pode remover sua prévia aceitação!",
+            "ephemeral_command": "Ao utilizar o comando `ephemeral`, você é capaz de configurar se outros são capazes de ver as mensagens que o albot manda para você ou não(certas mensagens ainda serão exibidas apenas para você), por padrão ninguém é capaz de ver."
           },
           "informations": {
             "name": "informações",
             "description": "Mostra os comandos da categoria de informações.",
             "linkChoice_name": "link", 
-            "helpChoice_name": "ajuda"
+            "helpChoice_name": "ajuda",
+            "help_command": "Ao utilizar o comando `help`, você pode ver informações sobre comandos de qualquer categoria.",
+            "link_command": "Ao utilizar o comando `link`, ele irá mostrar o link para algo relacionado ao albot como seus fundadores, o próprio site do albot, entre outros..."
           }
         }
       },
@@ -119,13 +123,17 @@
             "name": "configurations",
             "description": "Shows commands from the configurations category.",
             "termsChoice_name": "terms",
-            "ephemeralChoice_name": "ephemeral"
+            "ephemeralChoice_name": "ephemeral",
+             "terms_command": "By using the `terms` command, you are able to accept the bot's terms or if you have accepted, but if you no longer agree with our terms, you can remove your previous acceptance!",
+            "ephemeral_command": "By using the `ephemeral` command, you are able to configure whether others are able to see messages that albot sends to you or not (certain messages will still only be displayed to you), by default no one is able to see them."
           },
           "informations": {
             "name": "informations",
             "description": "Shows commands from the info category.",
+            "helpChoice_name": "help",
             "linkChoice_name": "link", 
-            "helpChoice_name": "help"
+            "help_command": "By using the `help` command, you can see information about commands from any category.",
+            "link_command": "When using the `link` command, it will show the link to something related to albot like its founders, albot's own website, among others..."
           }
         }
       },
