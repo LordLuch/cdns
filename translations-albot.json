@@ -18,8 +18,8 @@
       "informations": {
         "link": {
           "name": "link", 
-          "description": "Você pode ver o link para alguma página dos fundadores.", 
-          "github_name": "github", 
+          "description": "Mostra o link para as páginas de todos os fundadores, e suas redes sociais.", 
+          "github_name": "github",
           "github_description": "Mostra o link para o github dos fundadores.", 
           "github_lucas_christian": "Você pode ver o github público do LordLuch clicando [aqui]([github])!", 
           "github_lordluch": "Você pode ver o github secundário do LordLuch clicando [aqui]([github])!", 
@@ -31,11 +31,19 @@
         },
         "help": {
           "name": "ajuda",
-          "description": "Mostra informações sobre comandos, sobre o bot, etc...",
-          "command_name": "comandos",
-          "command_description": "Mostra os comandos de uma determinada categoria.",
-          "informations": "Os comandos informativos podem ser vistos em: albot.vercel.app",
-          "administration": "Os comandos administrativos podem ser vistos em: albot.vercel.app"
+          "description": "Mostra informações sobre comandos.",
+          "configurations": {
+            "name": "configurações",
+            "description": "Mostra os comandos da categoria de configurações.",
+            "termsChoice_name": "termos",
+            "ephemeralChoice_name": "ephemeral"
+          },
+          "informations": {
+            "name": "informações",
+            "description": "Mostra os comandos da categoria de informações.",
+            "linkChoice_name": "link", 
+            "helpChoice_name": "ajuda"
+          }
         }
       },
       "owner": {
@@ -93,7 +101,7 @@
       "informations": {
         "link": {
           "name": "link", 
-          "description": "You can see the link to some page of the founders.", 
+          "description": "Shows the link to the pages of all the founders, and their social networks.", 
           "github_name": "github", 
           "github_description": "Shows the link to the founders github.", 
           "github_lucas_christian": "You can see LordLuch's public github by clicking [here]([github])!", 
@@ -106,11 +114,19 @@
         },
         "help": {
           "name": "help",
-          "description": "Shows information about commands, about the bot, etc...",
-          "command_name": "commands",
-          "command_description": "Shows commands of a certain category.",
-          "informations": "Informational commands can be seen at: albot.vercel.app",
-          "administration": "Administrative commands can be seen at: albot.vercel.app"
+          "description": "Shows information about commands.",
+          "configurations": {
+            "name": "configurations",
+            "description": "Shows commands from the configurations category.",
+            "termsChoice_name": "terms",
+            "ephemeralChoice_name": "ephemeral"
+          },
+          "informations": {
+            "name": "informations",
+            "description": "Shows commands from the info category.",
+            "linkChoice_name": "link", 
+            "helpChoice_name": "help"
+          }
         }
       },
       "owner": {
