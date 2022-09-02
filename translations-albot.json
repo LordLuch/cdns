@@ -124,7 +124,7 @@
             "description": "Shows commands from the configurations category.",
             "termsChoice_name": "terms",
             "ephemeralChoice_name": "ephemeral",
-             "terms_command": "By using the `terms` command, you are able to accept the bot's terms or if you have accepted, but if you no longer agree with our terms, you can remove your previous acceptance!",
+            "terms_command": "By using the `terms` command, you are able to accept the bot's terms or if you have accepted, but if you no longer agree with our terms, you can remove your previous acceptance!",
             "ephemeral_command": "By using the `ephemeral` command, you are able to configure whether others are able to see messages that albot sends to you or not (certain messages will still only be displayed to you), by default no one is able to see them."
           },
           "informations": {
