@@ -29,13 +29,13 @@
           "exampleImages": [""],
           "github_name": "github",
           "github_description": "Mostra o link para o github dos fundadores.", 
-          "github_lucas_christian": "[Você pode ver o github público do LordLuch clicando aqui]([github])!", 
-          "github_lordluch": "[Você pode ver o github secundário do LordLuch clicando aqui]([github])!", 
-          "github_kyuno": "[Você pode ver o github do Kyuno clicando aqui](https://github.com/Ovatsugh)!",
+          "github_lucas_christian": "[Você pode ver o github público do LordLuch clicando aqui!]([github])", 
+          "github_lordluch": "[Você pode ver o github secundário do LordLuch clicando aqui!]([github])", 
+          "github_kyuno": "[Você pode ver o github do Kyuno clicando aqui!](https://github.com/Ovatsugh)",
           "linkedin_name": "linkedin", 
           "linkedin_description": "Mostra o link para o linkedin dos fundadores.", 
-          "linkedin_lucas_christian": "[Você pode ver o linkedin do LordLuch clicando aqui]([linkedin])!", 
-          "linkedin_kyuno": "[Você pode ver o linkedin do Kyuno clicando aqui](https://www.linkedin.com/in/gustavo-henrique-19929320b/)!"
+          "linkedin_lucas_christian": "[Você pode ver o linkedin do LordLuch clicando aqui!]([linkedin])", 
+          "linkedin_kyuno": "[Você pode ver o linkedin do Kyuno clicando aqui!](https://www.linkedin.com/in/gustavo-henrique-19929320b/)"
         },
         "help": {
           "name": "ajuda",
@@ -126,13 +126,13 @@
           "exampleImages": [""],
           "github_name": "github", 
           "github_description": "Shows the link to the founders github.", 
-          "github_lucas_christian": "[You can see LordLuch's public github by clicking here]([github])!", 
-          "github_lordluch": "[You can see LordLuch's secondary github by clicking here]([github])!", 
-          "github_kyuno": "[You can see Kyuno's github by clicking here](https://github.com/Ovatsugh)!",
+          "github_lucas_christian": "[You can see LordLuch's public github by clicking here!]([github])", 
+          "github_lordluch": "[You can see LordLuch's secondary github by clicking here!]([github])", 
+          "github_kyuno": "[You can see Kyuno's github by clicking here!](https://github.com/Ovatsugh)",
           "linkedin_name": "linkedin",
           "linkedin_description": "Shows the link to the founders linkedin.", 
-          "linkedin_lucas_christian": "[You can see LordLuch's linkedin by clicking here]([linkedin])!", 
-          "linkedin_kyuno": "[You can see Kyuno's linkedin by clicking here](https://www.linkedin.com/in/gustavo-henrique-19929320b/)!"
+          "linkedin_lucas_christian": "[You can see LordLuch's linkedin by clicking here!]([linkedin])", 
+          "linkedin_kyuno": "[You can see Kyuno's linkedin by clicking here!](https://www.linkedin.com/in/gustavo-henrique-19929320b/)"
         },
         "help": {
           "name": "help",
