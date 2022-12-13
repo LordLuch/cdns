@@ -5,6 +5,12 @@
         "terms": {  
           "name": "termos", 
           "description": "Você pode aceitar os termos do bot e usar todos os comandos!",
+          "exampleText": "Exemplos de uso:\n\n[emoji] /termos - Inicia uma interação para aceitar ou recusar os termos de uso do Albot [image]\n\nAo aceitar os termos você terá acesso a todos os comandos [image]\n\nVocê também pode cancelar e deletar seus dados do Albot a qualquer momento! [image]",
+          "exampleImages": [
+            "https://raw.githubusercontent.com/LordLuch/images/main/Albot/pt-BR/terms/albot-command-terms-pt-BR-1.png", 
+            "https://raw.githubusercontent.com/LordLuch/images/main/Albot/pt-BR/terms/albot-command-terms-pt-BR-2.png",
+            "https://raw.githubusercontent.com/LordLuch/images/main/Albot/pt-BR/terms/albot-command-terms-pt-BR-3.png"
+          ],
           "dontCancelTerms": "Não",
           "cancelTerms": "Sim",
           "refuseTerms": "Recusar",
@@ -18,20 +24,24 @@
       "informations": {
         "link": {
           "name": "link", 
-          "description": "Mostra o link para as páginas de todos os fundadores, e suas redes sociais.", 
+          "description": "Mostra o link para as páginas de todos os fundadores, e suas redes sociais.",
+          "exampleText": "Exemplos de uso:\n[emoji] /link - Mostra os exemplos de uso do comando",
+          "exampleImages": [""],
           "github_name": "github",
           "github_description": "Mostra o link para o github dos fundadores.", 
-          "github_lucas_christian": "Você pode ver o github público do LordLuch clicando [aqui]([github])!", 
-          "github_lordluch": "Você pode ver o github secundário do LordLuch clicando [aqui]([github])!", 
-          "github_kyuno": "Você pode ver o github do Kyuno clicando [aqui](https://github.com/Ovatsugh)",
+          "github_lucas_christian": "[Você pode ver o github público do LordLuch clicando aqui]([github])!", 
+          "github_lordluch": "[Você pode ver o github secundário do LordLuch clicando aqui]([github])!", 
+          "github_kyuno": "[Você pode ver o github do Kyuno clicando aqui](https://github.com/Ovatsugh)!",
           "linkedin_name": "linkedin", 
           "linkedin_description": "Mostra o link para o linkedin dos fundadores.", 
-          "linkedin_lucas_christian": "Você pode ver o linkedin do LordLuch clicando [aqui]([linkedin])!", 
-          "linkedin_kyuno": "Você pode ver o linkedin do Kyuno clicando [aqui](https://www.linkedin.com/in/gustavo-henrique-19929320b/)"
+          "linkedin_lucas_christian": "[Você pode ver o linkedin do LordLuch clicando aqui]([linkedin])!", 
+          "linkedin_kyuno": "[Você pode ver o linkedin do Kyuno clicando aqui](https://www.linkedin.com/in/gustavo-henrique-19929320b/)!"
         },
         "help": {
           "name": "ajuda",
           "description": "Mostra informações sobre comandos.",
+          "exampleText": "Exemplos de uso:\n[emoji] /ajuda - Mostra os exemplos de uso do comando",
+          "exampleImages": [""],
           "configurations": {
             "name": "configurações",
             "description": "Mostra os comandos da categoria de configurações.",
@@ -92,6 +102,12 @@
         "terms": {
           "name": "terms",
           "description": "You can accept the terms of the bot, and use all commands!",
+          "exampleText": "Usage Examples:\n\n[emoji] /terms - Starts an interaction to accept or decline Albot's terms of use [image]\n\nBy accepting the terms you will have access to all commands [image]\n\nYou can also unsubscribe and delete your Albot data at any time! [image]",
+          "exampleImages": [
+            "https://github.com/LordLuch/images/blob/main/Albot/en-US/terms/albot-command-terms-en-US-1.png?raw=true",
+            "https://github.com/LordLuch/images/blob/main/Albot/en-US/terms/albot-command-terms-en-US-2.png?raw=true",
+            "https://github.com/LordLuch/images/blob/main/Albot/en-US/terms/albot-command-terms-en-US-3.png?raw=true"
+          ],
           "dontCancelTerms": "No",
           "cancelTerms": "Yes",
           "refuseTerms": "Refuse",
@@ -106,19 +122,23 @@
         "link": {
           "name": "link", 
           "description": "Shows the link to the pages of all the founders, and their social networks.", 
+          "exampleText": "Usage examples:\n[emoji] /link - Show examples of using the command",
+          "exampleImages": [""],
           "github_name": "github", 
           "github_description": "Shows the link to the founders github.", 
-          "github_lucas_christian": "You can see LordLuch's public github by clicking [here]([github])!", 
-          "github_lordluch": "You can see LordLuch's secondary github by clicking [here]([github])!", 
-          "github_kyuno": "You can see Kyuno's github by clicking [here](https://github.com/Ovatsugh)",
+          "github_lucas_christian": "[You can see LordLuch's public github by clicking here]([github])!", 
+          "github_lordluch": "[You can see LordLuch's secondary github by clicking here]([github])!", 
+          "github_kyuno": "[You can see Kyuno's github by clicking here](https://github.com/Ovatsugh)!",
           "linkedin_name": "linkedin",
           "linkedin_description": "Shows the link to the founders linkedin.", 
-          "linkedin_lucas_christian": "You can see LordLuch's linkedin by clicking [here]([linkedin])!", 
-          "linkedin_kyuno": "You can see Kyuno's linkedin by clicking [here](https://www.linkedin.com/in/gustavo-henrique-19929320b/)"
+          "linkedin_lucas_christian": "[You can see LordLuch's linkedin by clicking here]([linkedin])!", 
+          "linkedin_kyuno": "[You can see Kyuno's linkedin by clicking here](https://www.linkedin.com/in/gustavo-henrique-19929320b/)!"
         },
         "help": {
           "name": "help",
           "description": "Shows information about commands.",
+          "exampleText": "Usage examples:\n[emoji] /help - Show examples of using the command",
+          "exampleImages": [""],
           "configurations": {
             "name": "configurations",
             "description": "Shows commands from the configurations category.",
