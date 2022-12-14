@@ -7,7 +7,6 @@
           "description": "Você pode aceitar os termos do bot e usar todos os comandos!",
           "exampleText": [
             "Exemplos de uso:", 
-            "[br]", "[br]", "[emoji]", 
             "/termos - Inicia uma interação para aceitar ou recusar os termos de uso do Albot", 
             "[br]", "[image]", "[br]", "[br]", 
             "Ao aceitar os termos você terá acesso a todos os comandos", 
@@ -36,7 +35,6 @@
           "description": "Mostra o link para as páginas de todos os fundadores, e suas redes sociais.",
           "exampleText": [
             "Exemplos de uso:",
-            "[br]", "[emoji]",
             "/link - Mostra os exemplos de uso do comando",
             "[br]", "[image]", "[br]", "[br]", 
             "Ao selecionar as opções, e clicar no texto em azul você pode ver o github dos criadores, o linkedin, etc...",
@@ -62,7 +60,6 @@
           "description": "Mostra informações sobre comandos.",
           "exampleText": [
             "Exemplos de uso:",
-            "[br]", "[emoji]", 
             "/ajuda - Mostra os exemplos de uso do comando",
             "[br]", "[image]" ,"[br]", 
             "Você pode ver a descrição de qualquer um dos comandos ao selecionar as opções!",
@@ -135,7 +132,6 @@
           "description": "You can accept the terms of the bot, and use all commands!",
           "exampleText": [
             "Usage Examples:", 
-            "[br]", "[br]", "[emoji]", 
             "/terms - Starts an interaction to accept or decline Albot's terms of use",
             "[br]", "[image]", "[br]", "[br]", 
             "By accepting the terms you will have access to all commands",
@@ -164,7 +160,6 @@
           "description": "Shows the link to the pages of all the founders, and their social networks.", 
           "exampleText": [
             "Usage examples:", 
-            "[br]", "[emoji]", 
             "/link - Show examples of using the command",
             "[br]", "[image]", "[br]", "[br]", 
             "By selecting the options, and clicking on the text in blue, you can see the creators' github, linkedin, etc...", 
@@ -190,7 +185,6 @@
           "description": "Shows information about commands.",
           "exampleText": [
             "Usage examples:",
-            "[br]", "[emoji]", 
             "/help - Show examples of using the command", 
             "[br]", "[image]", "[br]", 
             "You can see the description of any of the commands by selecting the options!", 
