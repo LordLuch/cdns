@@ -5,7 +5,7 @@
         "terms": {  
           "name": "termos", 
           "description": "Você pode aceitar os termos do bot e usar todos os comandos!",
-          "exampleText": "Exemplos de uso:\n\n[emoji] /termos - Inicia uma interação para aceitar ou recusar os termos de uso do Albot [image]\n\nAo aceitar os termos você terá acesso a todos os comandos [image]\n\nVocê também pode cancelar e deletar seus dados do Albot a qualquer momento! [image]",
+          "exampleText": "Exemplos de uso:\n\n[emoji] /termos - Inicia uma interação para aceitar ou recusar os termos de uso do Albot\n[image]\n\nAo aceitar os termos você terá acesso a todos os comandos\n[image]\n\nVocê também pode cancelar e deletar seus dados do Albot a qualquer momento!\n[image]",
           "exampleImages": [
             "https://raw.githubusercontent.com/LordLuch/images/main/Albot/pt-BR/terms/albot-command-terms-pt-BR-1.png", 
             "https://raw.githubusercontent.com/LordLuch/images/main/Albot/pt-BR/terms/albot-command-terms-pt-BR-2.png",
@@ -25,8 +25,12 @@
         "link": {
           "name": "link", 
           "description": "Mostra o link para as páginas de todos os fundadores, e suas redes sociais.",
-          "exampleText": "Exemplos de uso:\n[emoji] /link - Mostra os exemplos de uso do comando",
-          "exampleImages": [""],
+          "exampleText": "Exemplos de uso:\n[emoji] /link - Mostra os exemplos de uso do comando\n[image]\n\nAo selecionar as opções, e clicar no texto em azul você pode ver o github dos criadores, o linkedin, etc...\n[image]\n[image]",
+          "exampleImages": [
+            "https://github.com/LordLuch/images/blob/main/Albot/pt-BR/link/albot-command-link-pt-BR-1.png?raw=true",
+            "https://github.com/LordLuch/images/blob/main/Albot/pt-BR/link/albot-command-link-pt-BR-2.png?raw=true",
+            "https://github.com/LordLuch/images/blob/main/Albot/pt-BR/link/albot-command-link-pt-BR-3.png?raw=true"
+          ],
           "github_name": "github",
           "github_description": "Mostra o link para o github dos fundadores.", 
           "github_lucas_christian": "[Você pode ver o github público do LordLuch clicando aqui!]([github])", 
@@ -40,8 +44,12 @@
         "help": {
           "name": "ajuda",
           "description": "Mostra informações sobre comandos.",
-          "exampleText": "Exemplos de uso:\n[emoji] /ajuda - Mostra os exemplos de uso do comando",
-          "exampleImages": [""],
+          "exampleText": "Exemplos de uso:\n[emoji] /ajuda - Mostra os exemplos de uso do comando\n[image]\nVocê pode ver a descrição de qualquer um dos comandos ao selecionar as opções!\n[image]\n[image]",
+          "exampleImages": [
+            "https://github.com/LordLuch/images/blob/main/Albot/pt-BR/help/albot-command-help-pt-BR-1.png?raw=true", 
+            "https://github.com/LordLuch/images/blob/main/Albot/pt-BR/help/albot-command-help-pt-BR-2.png?raw=true",
+            "https://github.com/LordLuch/images/blob/main/Albot/pt-BR/help/albot-command-help-pt-BR-3.png?raw=true"
+          ],
           "configurations": {
             "name": "configurações",
             "description": "Mostra os comandos da categoria de configurações.",
@@ -102,7 +110,7 @@
         "terms": {
           "name": "terms",
           "description": "You can accept the terms of the bot, and use all commands!",
-          "exampleText": "Usage Examples:\n\n[emoji] /terms - Starts an interaction to accept or decline Albot's terms of use [image]\n\nBy accepting the terms you will have access to all commands [image]\n\nYou can also unsubscribe and delete your Albot data at any time! [image]",
+          "exampleText": "Usage Examples:\n\n[emoji] /terms - Starts an interaction to accept or decline Albot's terms of use\n[image]\n\nBy accepting the terms you will have access to all commands\n[image]\n\nYou can also unsubscribe and delete your Albot data at any time!\n[image]",
           "exampleImages": [
             "https://github.com/LordLuch/images/blob/main/Albot/en-US/terms/albot-command-terms-en-US-1.png?raw=true",
             "https://github.com/LordLuch/images/blob/main/Albot/en-US/terms/albot-command-terms-en-US-2.png?raw=true",
@@ -122,8 +130,12 @@
         "link": {
           "name": "link", 
           "description": "Shows the link to the pages of all the founders, and their social networks.", 
-          "exampleText": "Usage examples:\n[emoji] /link - Show examples of using the command",
-          "exampleImages": [""],
+          "exampleText": "Usage examples:\n[emoji] /link - Show examples of using the command\n[image]\n\nBy selecting the options, and clicking on the text in blue, you can see the creators' github, linkedin, etc...\n[image]\n[image]",
+          "exampleImages": [
+            "https://github.com/LordLuch/images/blob/main/Albot/en-US/link/albot-command-link-en-US-1.png?raw=true",
+            "https://github.com/LordLuch/images/blob/main/Albot/en-US/link/albot-command-link-en-US-2.png?raw=true", 
+            "https://github.com/LordLuch/images/blob/main/Albot/en-US/link/albot-command-link-en-US-3.png?raw=true"
+          ],
           "github_name": "github", 
           "github_description": "Shows the link to the founders github.", 
           "github_lucas_christian": "[You can see LordLuch's public github by clicking here!]([github])", 
@@ -137,8 +149,12 @@
         "help": {
           "name": "help",
           "description": "Shows information about commands.",
-          "exampleText": "Usage examples:\n[emoji] /help - Show examples of using the command",
-          "exampleImages": [""],
+          "exampleText": "Usage examples:\n[emoji] /help - Show examples of using the command\n[image]\nYou can see the description of any of the commands by selecting the options!\n[image]\n[image]",
+          "exampleImages": [
+            "https://github.com/LordLuch/images/blob/main/Albot/en-US/help/albot-command-help-en-US-1.png?raw=true",
+            "https://github.com/LordLuch/images/blob/main/Albot/en-US/help/albot-command-help-en-US-2.png?raw=true",
+            "https://github.com/LordLuch/images/blob/main/Albot/en-US/help/albot-command-help-en-US-3.png?raw=true"
+          ],
           "configurations": {
             "name": "configurations",
             "description": "Shows commands from the configurations category.",
